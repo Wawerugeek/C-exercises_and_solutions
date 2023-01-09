@@ -1,0 +1,1 @@
+n this programming exercise i will focus on basics of C programming. After completing this exercise I will learn basic structure and semantics of a C program and how to write mathematical programs in C.
